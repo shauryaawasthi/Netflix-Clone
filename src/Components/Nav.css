@@ -1,0 +1,15 @@
+.nav{
+    color:red ;
+    font-size: 50px;
+
+}
+
+.try{
+    display:flex;
+    justify-content: space-between;
+    padding-bottom:30px;        
+    
+    
+
+    
+}

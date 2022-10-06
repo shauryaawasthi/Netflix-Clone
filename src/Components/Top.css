@@ -1,0 +1,85 @@
+.tops{
+    /* 
+    
+
+    
+    
+    */
+    
+    /* border: 5px solid brown;   */
+    
+    /* background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; */
+
+    /* background-color: aqua; */
+
+    color: white;
+    /* object-fit:fill; */
+ 
+
+
+    width:100vw;
+    height:70vh;
+    background-size:auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+
+    background-image: url("../images/Peaky.jpg");
+    position: relative;
+    display: flex;
+    
+
+     
+}
+
+.net{
+    color: red;
+    font-size: 50px;
+    
+}
+
+
+
+.content
+{
+    margin-left:410px;
+    padding-top:200px;
+    height: 190px;
+}
+
+.content > h1{
+    font-size: 50px;
+    z-index: 1;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+
+.banner__button {
+    cursor: pointer;
+    color: #fff;
+    outline: none;
+    border: none;
+    font-weight: 800;
+    border-radius: 0.2vw;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-right: 1rem;
+    padding-top: 0.5rem;
+    background-color: rgba(51, 51, 51, 0.5);
+    padding-bottom: 0.5rem;
+}
+
+.banner__button:hover {
+    color: #000;
+    background-color: #e6e6e6;
+    transition: all 0.2s;
+}
+
+
+.b1{
+    margin-top: 200px;
+    padding-left:80px ;
+}
